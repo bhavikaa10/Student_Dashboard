@@ -6,4 +6,4 @@ numpy
 PyMuPDF
 python-dateutil
 ics
-
+fpdf
