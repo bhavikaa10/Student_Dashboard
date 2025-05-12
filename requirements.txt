@@ -1,0 +1,9 @@
+streamlit
+yfinance
+pandas
+matplotlib
+numpy
+PyMuPDF
+python-dateutil
+ics
+
