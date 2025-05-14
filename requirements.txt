@@ -1,9 +1,7 @@
-streamlit
-yfinance
-pandas
-matplotlib
-numpy
-PyMuPDF
+streamlit==1.*          # core app
+streamlit-calendar      # FullCalendar wrapper
+pymupdf                 # aka fitz
 python-dateutil
 ics
 fpdf
+pandas
